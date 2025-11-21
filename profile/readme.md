@@ -1,9 +1,6 @@
 # CyberForce FSTT
 
 <div align="center">
-
-![CyberForce Logo](../static/logo.png)
-
 **Building Morocco's Cybersecurity Future**
 
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-5.0-FF3E00?style=flat&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
