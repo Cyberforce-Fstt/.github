@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CyberForce Logo](static/logo.png)
+![CyberForce Logo](../static/logo.png)
 
 **Building Morocco's Cybersecurity Future**
 
