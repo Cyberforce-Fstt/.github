@@ -64,39 +64,6 @@ Live demo: https://cyberforce-fstt.github.io/
 
 ---
 
-## For Contributors
-
-We welcome students, alumni, and the open-source community.
-
-Getting started:
-1. Fork the repository: https://github.com/cyberforce-fstt/cyberforce  
-2. Create a branch:
-   git checkout -b feature/your-feature
-3. Follow coding guidelines in .github/copilot-instructions.md
-   - Use Svelte 5 runes ($state, $derived)
-   - Keep theme colors in app.css (no hardcoded colors)
-   - Maintain TypeScript types and strict checks
-4. Commit, push, and open a pull request
-
-Development commands:
-- pnpm dev — start dev server
-- pnpm build — build production assets
-- pnpm check — type checking
-- pnpm lint — linting
-- pnpm format — code formatting
-
-Prerequisites:
-- Node.js 20.x+
-- pnpm 10.x (recommended)
-- Git
-
-Environment example:
-PUBLIC_POCKETBASE_URL=http://127.0.0.1:8090
-
-PocketBase: start with ./pocketbase serve and create collections via the admin UI.
-
----
-
 ## Roadmap
 
 Planned items:
@@ -134,7 +101,7 @@ Community:
 
 ## Contact & Socials
 
-- Email: contact@cyberforce-fstt.ma  
+- Email: cyber.force.fst@gmail.com  
 - Location: FSTT, Tangier, Morocco  
 - Instagram: https://instagram.com/cyberforce.fstt  
 - GitHub: https://github.com/cyberforce-fstt  
